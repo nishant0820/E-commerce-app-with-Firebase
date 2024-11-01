@@ -88,8 +88,31 @@ This is a simple yet comprehensive e-commerce mobile application built with Flut
 
 ```bash
 lib/
-├── common/          # Data models for products, cart, etc.
-├── core/            # State management using Provider
-├── data/            # Screens for login, home, cart, product detail, etc.
-├── domain/          # Firebase-related services
-└── presentation/    # Reusable UI components
+├── common/
+    ├── bloc/          
+    ├── helper/            
+    ├── widgets/            
+├── core/
+    ├── configs/          
+    ├── constants/            
+    ├── usecase/           
+├── data/
+    ├── auth/          
+    ├── category/            
+    ├── order/
+    ├── product/
+├── domain/  
+    ├── auth/          
+    ├── category/            
+    ├── order/
+    ├── product/        
+└── presentation/
+    ├── all_categories/
+    ├── auth/            
+    ├── cart/
+    ├── category_products/
+    ├── home/
+    ├── product_detail/          
+    ├── search/
+    ├── settings/
+    ├── splash/
