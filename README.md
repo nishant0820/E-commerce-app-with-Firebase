@@ -88,20 +88,20 @@ This is a simple yet comprehensive e-commerce mobile application built with Flut
 
 ```bash
 lib/
-├── common/
+└── common/
     ├── bloc/          
     ├── helper/            
     ├── widgets/            
-├── core/
+└── core/
     ├── configs/          
     ├── constants/            
     ├── usecase/           
-├── data/
+└── data/
     ├── auth/          
     ├── category/            
     ├── order/
     ├── product/
-├── domain/  
+└── domain/  
     ├── auth/          
     ├── category/            
     ├── order/
