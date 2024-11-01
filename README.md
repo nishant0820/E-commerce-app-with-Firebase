@@ -118,7 +118,7 @@ lib/
     ├── splash/
 ```
 
-## Project Structure
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
