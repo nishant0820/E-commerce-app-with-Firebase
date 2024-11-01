@@ -116,8 +116,9 @@ lib/
     ├── search/
     ├── settings/
     ├── splash/
+```
 
-## Contributing
+## Project Structure
 
 Contributions are welcome! Please follow these steps:
 
